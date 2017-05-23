@@ -1,0 +1,4 @@
+hello git
+This is my first sample file
+thanks
+i am adding line
