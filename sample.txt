@@ -6,4 +6,8 @@ second line adding..
 adding third line...
 adding 4 line
 this is 5th line adding....
+<<<<<<< HEAD
 7 th line from local
+=======
+6 th line from internet
+>>>>>>> ad72ca44e410b8c8aab7259b2641c8c03b30c041
